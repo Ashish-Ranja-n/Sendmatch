@@ -54,8 +54,7 @@ export default function Home() {
             A new era of dating has arrived!
           </h2>
           <div className="space-y-2 text-lg sm:text-xl md:text-2xl text-gray-200">
-            <p className="font-medium">No swipes, no subscriptions.</p>
-            <p className="font-light">Just genuine connections, coming your way.</p>
+            <p className="font-light">Genuine connections, coming your way.</p>
           </div>
         </div>
 
@@ -97,7 +96,7 @@ export default function Home() {
         {/* Footer */}
         <div className="absolute bottom-6 left-1/2 transform -translate-x-1/2">
           <p className="text-sm text-gray-400 text-center">
-            Copyright © 2024 SendMatch • All Rights Reserved.
+            Copyright © 2025 SendMatch • All Rights Reserved.
           </p>
         </div>
       </div>
